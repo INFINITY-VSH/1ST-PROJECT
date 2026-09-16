@@ -1,1 +1,4 @@
-# 1ST-PROJECT
+1ST-PROJECT
+MBA Projects in LPU
+===
+
